@@ -1,0 +1,22 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	font-size: 14px;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
+
+ul{
+	list-style: none;
+}
+
+.dl-f{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: row;
+}
